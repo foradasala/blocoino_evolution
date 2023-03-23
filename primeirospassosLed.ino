@@ -2,7 +2,7 @@
 #define   PINO_DO_LED  13
 
 // indique abaixo o tempo que cada sinal deve ficar aceso (em segundos)
-#define   TEMPO_LED_EM_SEGUNDOS   5
+#define   TEMPO_LED_EM_SEGUNDOS   2
 
 // a função de setup é executada apenas uma vez, quando o arduino é inicializado
 void setup() {
